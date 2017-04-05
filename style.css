@@ -21,8 +21,8 @@ li a {
     text-decoration: none;
 }
 li a:hover {
-    background-color: #555;
-    color: white;
+    background-color: #006400;
+    color: black;
 }
 body{
   font-size:20px;
